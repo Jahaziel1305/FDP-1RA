@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA-1-PRACTICA2-DATOS"/>
+        <attribute name="authors" value="alond"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:49:07 p. m."/>
+        <attribute name="created" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjY7MDQ6Mjg6NDAgcC4gbS47MjU3MQ=="/>
+        <attribute name="edited" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjY7MDQ6NDk6MDcgcC4gbS47MTsyNjg1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;JAHAZIEL OMAR ORTIZ QUINTANA&quot;" newline="True"/>
+            <output expression="2007" newline="True"/>
+            <output expression="1003.5" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
