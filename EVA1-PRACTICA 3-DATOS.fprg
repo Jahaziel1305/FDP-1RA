@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1-PRACTICA 3-DATOS"/>
+        <attribute name="authors" value="alond"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:31:14 p. m."/>
+        <attribute name="created" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjc7MDQ6MTQ6MTEgcC4gbS47MjU2NQ=="/>
+        <attribute name="edited" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjc7MDQ6MzE6MTQgcC4gbS47MTsyNjc1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE:&quot;" newline="False"/>
+            <output expression="&quot; JAHAZIEL OMAR ORTIZ QUINTANA&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL:&quot;" newline="False"/>
+            <output expression="25550366" newline="True"/>
+            <output expression="&quot;EDAD:&quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
