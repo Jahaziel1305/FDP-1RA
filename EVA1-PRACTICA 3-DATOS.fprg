@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="SD"/>
+        <attribute name="authors" value="Jarvis"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 09:42:41 PM"/>
+        <attribute name="created" value="SmFydmlzO0RFU0tUT1AtUzYxTUlBTjsyMDI1LTA4LTI3OzA5OjE0OjE3IFBNOzI5Nzc="/>
+        <attribute name="edited" value="SmFydmlzO0RFU0tUT1AtUzYxTUlBTjsyMDI1LTA4LTI3OzA5OjQyOjQxIFBNOzE7MzA4Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DE ALUMNO: &quot;" newline="False"/>
+            <output expression="&quot;JAHAZIEL OMAR ORTIZ QUINTANA&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL: &quot;" newline="False"/>
+            <output expression="25550366" newline="True"/>
+            <output expression="&quot;EDAD: &quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

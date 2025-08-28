@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1-PRACTICA 4-EMPLEO"/>
+        <attribute name="authors" value="Jarvis"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 09:55:56 PM"/>
+        <attribute name="created" value="SmFydmlzO0RFU0tUT1AtUzYxTUlBTjsyMDI1LTA4LTI3OzA5OjQzOjUxIFBNOzI5Nzc="/>
+        <attribute name="edited" value="SmFydmlzO0RFU0tUT1AtUzYxTUlBTjsyMDI1LTA4LTI3OzA5OjU1OjU2IFBNOzI7MzA5NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO: &quot;" newline="False"/>
+            <output expression="&quot;RECTIFICACION DE MOTORES&quot;" newline="True"/>
+            <output expression="&quot;SALARIO (SEMANAL): &quot;" newline="False"/>
+            <output expression="&quot;2200 PESOS MEXICANOS&quot;" newline="True"/>
+            <output expression="&quot;HORAS MINIMAS POR SEMANA: &quot;" newline="False"/>
+            <output expression="48" newline="True"/>
+            <output expression="&quot;REQUIERE INGLES? &quot;" newline="False"/>
+            <output expression="FALSE" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
