@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA 1-PRACTICA5-VARIABLES"/>
+        <attribute name="authors" value="alond"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 04:58:04 p. m."/>
+        <attribute name="created" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjg7MDQ6MzY6NDkgcC4gbS47MjU4MQ=="/>
+        <attribute name="edited" value="YWxvbmQ7R1dUTjE1Ni0xOzIwMjUtMDgtMjg7MDQ6NTg6MDQgcC4gbS47MTsyNjg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Jahaziel Omar Ortiz Quintana&quot;"/>
+            <assign variable="edad" expression="18"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
