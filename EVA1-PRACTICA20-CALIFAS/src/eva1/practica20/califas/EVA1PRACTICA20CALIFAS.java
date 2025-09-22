@@ -18,8 +18,10 @@ public class EVA1PRACTICA20CALIFAS {
             System.out.println("Tu nota es: C");
         } else if (califa >= 60 && califa <= 69) {
             System.out.println("Tu nota es: D");
+        } else if (califa >= 0 && califa <= 59) {
+            System.out.println("Tu nota es : F");
         } else {
-            System.out.println("Tu nota es: F");
+            System.out.println("Nota no válida");
         }
 
     }
