@@ -11,7 +11,7 @@ public class EVA1PRACTICA24AGUILASELLO {
         if (Usuario != 0 && Usuario != 1) {
             System.out.println("Valor invalido. Debes ingresar 1 si deseas aguila o 0 si deseas sello");
         } else
-            System.out.println(random);
+            System.out.println(random);// <---- Esto no se lo mostraría al usuario
         if (Usuario == 1) {
             System.out.println("Has escogido aguila");
             if (random >= .5) {
